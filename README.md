@@ -1,0 +1,2 @@
+# bnb
+binance smart schain
